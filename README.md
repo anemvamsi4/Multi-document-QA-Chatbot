@@ -26,7 +26,7 @@ To run the Q&A chatbot, follow these steps:
 3. Access the chatbot interface in your web browser (usually at http://localhost:8501).
 4. Enter a question, and the chatbot will provide an answer based on the provided documents.
 
-##Repo Structure:
+## Repo Structure:
 The repository is organized as follows:
 
 - **Q&A_chatbot.ipynb**: Jupyter Notebook explaining the code and build process.
@@ -34,7 +34,7 @@ The repository is organized as follows:
 - **requirements.txt**: List of Python dependencies required for the project.
 - **st_app.png**: Streamlit app UI demo image.
 
-###NOTE:
+### NOTE:
 - The streamlit app code can be done better and more optimised. Sooner, I will try to upload better version of it. Contributions are appreciated.
 
 ##Contributing
@@ -47,4 +47,4 @@ If you'd like to contribute to this project, please follow the standard GitHub f
 4. Push your changes to your fork.
 5. Submit a pull request.
 
-###Thank you
+### Thank you
