@@ -2,6 +2,9 @@
 
 Welcome to the Q&A Chatbot project! This repository contains the code and resources for building and deploying a Q&A chatbot that can answer questions based on a set of provided documents. The chatbot uses the Retrieval Augmented Generation (RAG) technique with Llama2 model to generate context-aware responses.
 
+![image](https://github.com/anemvamsi4/Multi-document-QA-Chatbot/assets/84965880/6a1c6d1b-187a-4a41-a4b9-a32bf6c2dc6b)
+
+
 ## Project Overview
 
 The goal of this project is to create an interactive Q&A chatbot that can provide answers to user questions by searching through a collection of documents. The chatbot utilizes Llama2-13B model to understand user queries, retrieve relevant information from the documents, and generate informative responses. You can try with better models like Llama2-70B or Falcon-160B or also OpenAI's gtp-3.5-turbo.
