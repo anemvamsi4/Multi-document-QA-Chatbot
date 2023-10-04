@@ -37,7 +37,7 @@ The repository is organized as follows:
 ### NOTE:
 - The streamlit app code can be done better and more optimised. Sooner, I will try to upload better version of it. Contributions are appreciated.
 
-##Contributing
+## Contributing
 
 If you'd like to contribute to this project, please follow the standard GitHub flow:
 
